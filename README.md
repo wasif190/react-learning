@@ -32,3 +32,12 @@ This project will teach you about:
 #### [04 React Form](https://react-form-page-project.netlify.app/)
 
 This project will teach you how to create form and track form data
+
+#### [05 Eduweb (React router project)](https://eduweb-react-router-project.netlify.app/)
+
+#### [06 Random Meme Generator](https://react-random-git.netlify.app/)
+
+This project will teach you about:
+- How to create a custom hook
+- How to fetch data from the api
+
