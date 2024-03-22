@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    border-bottom: 1.8px solid #f19168f2;
+}
+
+input {
+    outline: none;
+}
